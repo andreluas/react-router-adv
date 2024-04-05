@@ -17,7 +17,7 @@
 
 # :camera: Screenshots
 <div align="center">
-   <img src="./public/screen.png" width="500px">
+   <img src="./frontend/public/screen.png" width="500px">
 </div>
 
 # :rocket: Technologies
